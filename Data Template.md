@@ -5,7 +5,7 @@ Category: SRGE
 Slug: srge-data-template
 Summary: Guidelines for setting up your reactor data 
 
-This is the content of my super blog post.
+Hello, this is an example of some text.
 
 #SRGE Dataset<sup>1</sup> Template
 |Variable|Required or Optional|Description|Example Values|Comments/Other Requirements|
